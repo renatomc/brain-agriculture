@@ -3,9 +3,9 @@ function App() {
     <>
       <div>
         <h1>Primeira pagina</h1>
-    </div>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
